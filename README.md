@@ -24,13 +24,13 @@ Load the terrorism dataset into a Pandas DataFrame for analysis.
 ## Data Preprocessing:   
 Clean and preprocess the data by handling missing values, converting data types, and applying necessary transformations.  
 
-##Exploratory Analysis:  
+## Exploratory Analysis:  
 Perform exploratory data analysis to understand the distribution of various attributes, such as attack types, weapons used, target types, and more.  
 
 ## Geographical Analysis:  
 Utilize geospatial visualizations (maps) to identify regions with high frequency of terrorist incidents.  
 
-##Temporal Analysis:  
+## Temporal Analysis:  
 Explore the temporal trends in terrorism incidents over the years.  
 
 ## CONTRIBUTIONS
